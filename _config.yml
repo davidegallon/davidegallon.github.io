@@ -96,11 +96,10 @@ content:
         description: | # this will include new lines to allow paragraphs
           Graduated with 110/110 cum laude.
           I have dedicated my studies to numerical methods for differential equations, dynamic simulations, neural networks for deep learning, numerical methods for big data, stochastic equations.
-    #content:
-    #  - layout: left
-    #    title: University of Padua
-    #    caption: October 2016 - September 2019
-    #    sub_title: Bachelor degree in Mathematics 
+      - layout: left
+        title: University of Padua
+        caption: October 2016 - September 2019
+        sub_title: Bachelor degree in Mathematics 
     #    description: | # this will include new lines to allow paragraphs
     #      ...
   - title: A Little More About Me
