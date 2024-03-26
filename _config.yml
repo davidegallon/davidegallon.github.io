@@ -102,7 +102,7 @@ content:
     #    caption: October 2016 - September 2019
     #    sub_title: Bachelor degree in Mathematics 
     #    description: | # this will include new lines to allow paragraphs
-          ...
+    #      ...
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
