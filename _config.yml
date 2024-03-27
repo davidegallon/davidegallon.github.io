@@ -49,15 +49,15 @@ linkedin_username: davide-gallon-76203a148
 about_profile_image: images/Gallon-Davide.JPG
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Davide and I am a PhD student in Mathematics at the University of Münster - Cluster of Excellence Mathematics (Germany).
-  #I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  
 
 content:
   - title: Research # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: News
+        #link: github.com/sproogen
         # link_text: Project Website
         #additional_links:
         #  - title:  sproogen/modern-resume-theme
@@ -106,13 +106,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       I have a deep interest in staying informed about the latest AI technological advancements:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+    
 
 # Footer
 footer_show_references: true
