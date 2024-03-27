@@ -102,7 +102,6 @@ content:
         sub_title: Bachelor degree in Mathematics 
         description: | # this will include new lines to allow paragraphs
           The Bachelor in Mathematics program provided me a comprehensive education in theoretical and applied mathematics.
-          #, equipping me with a strong foundation in mathematical principles and problem-solving techniques.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
