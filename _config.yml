@@ -101,11 +101,12 @@ content:
         caption: October 2016 - September 2019
         sub_title: Bachelor degree in Mathematics 
         description: | # this will include new lines to allow paragraphs
-          The Bachelor in Mathematics program provided me a comprehensive education in theoretical and applied mathematics.#, equipping me with a strong foundation in mathematical principles and problem-solving techniques.
+          The Bachelor in Mathematics program provided me a comprehensive education in theoretical and applied mathematics.
+          #, equipping me with a strong foundation in mathematical principles and problem-solving techniques.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      I have a deep interest in staying informed about the latest AI technological advancements:
+      I have a deep interest in staying informed about the latest AI technological advancements.
     
 
 # Footer
