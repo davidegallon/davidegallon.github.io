@@ -57,7 +57,7 @@ content:
     content:
       - layout: left
         title: University of Muenster - Cluster of Excellence Mathematics
-        link: https://www.uni-muenster.de/AMM/show_perspage.shtml?id=1761
+        link: [University webpage](https://www.uni-muenster.de/AMM/show_perspage.shtml?id=1761)
         # link_text: boringcompany.com
         sub_title:  PhD in Applied Mathematics
         caption: July 2023 - Current
