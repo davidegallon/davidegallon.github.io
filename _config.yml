@@ -82,7 +82,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           (August 2024) I will partecipate to the [Deep Learning Theory Summer School](https://mlschool.princeton.edu/) at Princeton.
 
-          (April 2024 - September 2024) I am the teaching assistant for the course [Numerical Optimization[(https://studium.uni-muenster.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=409818&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) at the University of Münster.
+          (April 2024 - September 2024) I am the teaching assistant for the course [Numerical Optimization](https://studium.uni-muenster.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=409818&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) at the University of Münster.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
