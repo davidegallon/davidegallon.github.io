@@ -77,10 +77,10 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          ...
+        #quote: >
+        #  ...
         description: | # this will include new lines to allow paragraphs
-          Bla
+          I will partecipate to the Deep Learning Theory Summer School at [Princeton](https://mlschool.princeton.edu/).
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
