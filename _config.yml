@@ -55,6 +55,17 @@ content:
   - title: Research # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: PhD in Applied Mathematics
+        link: https://www.uni-muenster.de/AMM/show_perspage.shtml?id=1761
+        # link_text: boringcompany.com
+        sub_title: University of Muenster
+        caption: July 2023 - Current
+        #quote: >
+        # Inspire the next
+        description: | # this will include new lines to allow paragraphs
+         The PhD focuses on exploring novel techniques in Machine Learning and their mathematical understanding. Supervisor: Arnulf Jentzen.
+    
       - layout: top-middle
         title: News
         #link: github.com/sproogen
