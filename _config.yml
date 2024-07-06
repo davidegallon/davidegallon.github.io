@@ -56,10 +56,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: PhD in Applied Mathematics
+        title: University of Muenster - Cluster of Excellence Mathematics
         link: https://www.uni-muenster.de/AMM/show_perspage.shtml?id=1761
         # link_text: boringcompany.com
-        sub_title: University of Muenster
+        sub_title:  PhD in Applied Mathematics
         caption: July 2023 - Current
         #quote: >
         # Inspire the next
