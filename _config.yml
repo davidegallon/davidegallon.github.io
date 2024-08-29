@@ -15,7 +15,7 @@ website: www.github.com/davidegallon
 darkmode: false
 
 # Social links
-# twitter_username: facespics
+# twitter_username: 
 github_username:  davidegallon
 # stackoverflow_username: 
 # dribbble_username: 
@@ -23,10 +23,10 @@ github_username:  davidegallon
 # flickr_username: 
 # instagram_username: 
 linkedin_username: davide-gallon-76203a148
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
+# xing_username: 
+# pinterest_username: 
+# youtube_username: 
+# googleplus_username: 
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
@@ -80,7 +80,8 @@ content:
         #quote: >
         #  ...
         description: | # this will include new lines to allow paragraphs
-          (August 2024) I will partecipate to the [Deep Learning Theory Summer School](https://mlschool.princeton.edu/) at Princeton.
+          (September 2024) I will partecipate to [Mediterranean Machine Learning Summer School](https://www.m2lschool.org/) in Milan.
+          (August 2024) I partecipated to the [Deep Learning Theory Summer School](https://mlschool.princeton.edu/) at Princeton.
 
           (April 2024 - September 2024) I am the teaching assistant for the course [Numerical Optimization](https://studium.uni-muenster.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=409818&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) at the University of Münster.
 
