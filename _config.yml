@@ -65,7 +65,12 @@ content:
         # Inspire the next
         description: | # this will include new lines to allow paragraphs
          The PhD focuses on exploring novel techniques in Machine Learning and their mathematical understanding. Supervisor: Arnulf Jentzen.
-    
+
+      - layout: top-middle
+        title: Preprints
+        description: 
+        - **Davide Gallon**, Arnulf Jentzen, Philippe von Wurstemberger. *An overview of diffusion models for generative artificial intelligence.* [[ArXiv]](https://arxiv.org/abs/2412.01371/) (2024).
+        
       - layout: top-middle
         title: News
         #link: github.com/sproogen
