@@ -68,7 +68,7 @@ content:
 
       - layout: top-middle
         title: Preprints
-        description: 
+        description:  | # this will include new lines to allow paragraphs
         - **Davide Gallon**, Arnulf Jentzen, Philippe von Wurstemberger. *An overview of diffusion models for generative artificial intelligence.* [[ArXiv]](https://arxiv.org/abs/2412.01371/) (2024).
         - **Davide Gallon**, Arnulf Jentzen, Felix Lindner. *Blow up phenomena for gradient descent optimization methods in the training of artificial neural networks.* [[ArXiv]](https://arxiv.org/abs/2211.15641/) (2022).
         
