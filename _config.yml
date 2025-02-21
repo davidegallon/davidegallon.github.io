@@ -17,7 +17,6 @@ darkmode: false
 # Social links
 # twitter_username: 
 github_username:  davidegallon
-scholar_username: citations?user=I9lLc9cAAAAJ&hl=it&oi=ao
 # stackoverflow_username: 
 # dribbble_username: 
 # facebook_username: 
@@ -33,7 +32,7 @@ linkedin_username: davide-gallon-76203a148
 # Additional icon links
 additional_links:
 - title: Scholar link
-  icon:  fab fa-google-scholar
+  icon:  fab fa-google-scholar ((https://fontawesome.com/icons?d=gallery&s=brands&m=free))
   url: https://scholar.google.com/citations?user=I9lLc9cAAAAJ&hl=it
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons/google-scholar?f=classic&s=brands)
