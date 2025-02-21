@@ -33,7 +33,7 @@ linkedin_username: davide-gallon-76203a148
 # Additional icon links
 additional_links:
 - title: Scholar link
-  icon: Google scholar (https://fontawesome.com/icons/google-scholar?f=classic&s=brands)
+  icon:  fab fa-twitter (https://fontawesome.com/icons/google-scholar?f=classic&s=brands)
   url: https://scholar.google.com/citations?user=I9lLc9cAAAAJ&hl=it
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons/google-scholar?f=classic&s=brands)
