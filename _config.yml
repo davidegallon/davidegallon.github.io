@@ -69,6 +69,7 @@ content:
       - layout: top-middle
         title: Preprints
         description:  | # this will include new lines to allow paragraphs
+          - Julian Kranz, **Davide Gallon**, Steffen Dereich, Arnulf Jentzen. *SAD Neural Networks: Divergent Gradient Flows and Asymptotic Optimality via o-minimal Structures.* [[ArXiv]](https://arxiv.org/abs/2505.09572/) (2025).
           - **Davide Gallon**, Arnulf Jentzen, Philippe von Wurstemberger. *An overview of diffusion models for generative artificial intelligence.* [[ArXiv]](https://arxiv.org/abs/2412.01371/) (2024).
           - **Davide Gallon**, Arnulf Jentzen, Felix Lindner. *Blow up phenomena for gradient descent optimization methods in the training of artificial neural networks.* [[ArXiv]](https://arxiv.org/abs/2211.15641/) (2022).
           
