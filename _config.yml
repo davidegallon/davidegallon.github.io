@@ -69,15 +69,15 @@ content:
       - layout: top-middle
         title: Published Papers
         description: |
-          - Julian Kranz, **Davide Gallon**, Steffen Dereich, Arnulf Jentzen. *SAD Neural Networks: Divergent Gradient Flows and Asymptotic Optimality via o-minimal Structures.* Advances in Neural Information Processing Systems 38 (NeurIPS 2025). [[link]](https://proceedings.neurips.cc/paper_files/paper/2025/hash/05fb0f4e645cad23e0ab59d6b9901428-Abstract-Conference.html) (2025).
+          - Julian Kranz, **Davide Gallon**, Steffen Dereich, Arnulf Jentzen. *SAD Neural Networks: Divergent Gradient Flows and Asymptotic Optimality via o-minimal Structures.* Advances in Neural Information Processing Systems (NeurIPS 2025). [[link]](https://proceedings.neurips.cc/paper_files/paper/2025/hash/05fb0f4e645cad23e0ab59d6b9901428-Abstract-Conference.html) (2025).
 
       - layout: top-middle
         title: Preprints
-        description:  | # this will include new lines to allow paragraphs
-          - **Davide Gallon**, Philippe von Wurstemberger, Patrick Cheridito, Arnulf Jentzen. *Physics-informed diffusion models in spectral space.* [[ArXiv]](hhttps://arxiv.org/abs/2602.09708/) (2026).
+        description: |
+          - **Davide Gallon**, Philippe von Wurstemberger, Patrick Cheridito, Arnulf Jentzen. *Physics-informed diffusion models in spectral space.* Accepted at ICML 2026. [[ArXiv]](https://arxiv.org/abs/2602.09708/) (2026).
           - **Davide Gallon**, Arnulf Jentzen, Philippe von Wurstemberger. *An overview of diffusion models for generative artificial intelligence.* [[ArXiv]](https://arxiv.org/abs/2412.01371/) (2024).
           - **Davide Gallon**, Arnulf Jentzen, Felix Lindner. *Blow up phenomena for gradient descent optimization methods in the training of artificial neural networks.* [[ArXiv]](https://arxiv.org/abs/2211.15641/) (2022).
-          
+        
       - layout: top-middle
         title: News
         #link: github.com/sproogen
@@ -93,7 +93,7 @@ content:
         #  ...
         description: | # this will include new lines to allow paragraphs
         
-          (July 2026) I will attend the International Conference on Machine Learning ([ICML 2026](https://icml.cc/)) in South Korea.
+          (July 2026) My paper *Physics-informed diffusion models in spectral space* was accepted at the International Conference on Machine Learning ([ICML 2026](https://icml.cc/)). I will attend the conference in South Korea.
           
           (April 2026 - September 2026) I am the teaching assistant for the course [Numerical Methods for PDEs II](https://studium.uni-muenster.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&publishid=452773&noDBAction=y&init=y) at the University of Münster.
 
