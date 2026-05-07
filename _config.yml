@@ -87,8 +87,14 @@ content:
         #quote: >
         #  ...
         description: | # this will include new lines to allow paragraphs
+        
+          (July 2026) I will attend the International Conference on Machine Learning (ICML 2026) in South Korea
           
-          (March 2025 - March 2026) I am a visiting PhD student at ETH Zurich, under the supervision of [Patrick Cheridito](https://people.math.ethz.ch/~patrickc/). Thank you for this opportunity!
+          (April 2026 - September 2026) I am the teaching assistant for the course [Numerical Methods for PDEs II](https://studium.uni-muenster.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&publishid=452773&noDBAction=y&init=y) at the University of Münster.
+
+          (December 2025) I attended the Conference on Neural Information Processing Systems (NeurIPS 2025) in San Diego with the paper *SAD Neural Networks: Divergent Gradient Flows and Asymptotic Optimality via o-minimal Structures* by Julian Kranz, Davide Gallon, Steffen Dereich, and Arnulf Jentzen.
+          
+          (March 2025 - March 2026) I was a visiting PhD student at ETH Zurich, under the supervision of [Patrick Cheridito](https://people.math.ethz.ch/~patrickc/). Thank you for this opportunity!
         
           (September 2024) I attended the [Mediterranean Machine Learning Summer School](https://www.m2lschool.org/past-editions/m2l-2024-italy) in Milan.
           
