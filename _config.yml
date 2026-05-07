@@ -67,9 +67,14 @@ content:
          The PhD focuses on exploring novel techniques in Machine Learning and their mathematical understanding. Supervisor: [Arnulf Jentzen](https://www.ajentzen.de/).
 
       - layout: top-middle
+        title: Published Papers
+        description: |
+          - Julian Kranz, **Davide Gallon**, Steffen Dereich, Arnulf Jentzen. *SAD Neural Networks: Divergent Gradient Flows and Asymptotic Optimality via o-minimal Structures.* Advances in Neural Information Processing Systems 38 (NeurIPS 2025). [[link]](https://proceedings.neurips.cc/paper_files/paper/2025/hash/05fb0f4e645cad23e0ab59d6b9901428-Abstract-Conference.html) (2025).
+
+      - layout: top-middle
         title: Preprints
         description:  | # this will include new lines to allow paragraphs
-          - Julian Kranz, **Davide Gallon**, Steffen Dereich, Arnulf Jentzen. *SAD Neural Networks: Divergent Gradient Flows and Asymptotic Optimality via o-minimal Structures.* [[ArXiv]](https://arxiv.org/abs/2505.09572/) (2025).
+          - **Davide Gallon**, Philippe von Wurstemberger, Patrick Cheridito, Arnulf Jentzen. *Physics-informed diffusion models in spectral space.* [[ArXiv]](hhttps://arxiv.org/abs/2602.09708) (2026).
           - **Davide Gallon**, Arnulf Jentzen, Philippe von Wurstemberger. *An overview of diffusion models for generative artificial intelligence.* [[ArXiv]](https://arxiv.org/abs/2412.01371/) (2024).
           - **Davide Gallon**, Arnulf Jentzen, Felix Lindner. *Blow up phenomena for gradient descent optimization methods in the training of artificial neural networks.* [[ArXiv]](https://arxiv.org/abs/2211.15641/) (2022).
           
