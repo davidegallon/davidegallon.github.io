@@ -70,8 +70,8 @@ content:
         title: Published Papers
         description: |
           - Jean-Loup Dupret, **Davide Gallon**, Patrick Cheridito. *INEUS: Iterative Neural Solver for High-Dimensional PIDEs.* Accepted at NeurIPS 2026.[[ArXiv]](https://arxiv.org/abs/2605.06281/) (2026). 
-          - **Davide Gallon**, Philippe von Wurstemberger, Patrick Cheridito, Arnulf Jentzen. *Physics-informed diffusion models in spectral space.* Proceedings of the 43rd International Conference on Machine Learning (ICML 2026), PMLR 306:32814–32831. [[Proceedings]](https://proceedings.mlr.press/v306/gallon26a.html) (2026).
-          - Julian Kranz, **Davide Gallon**, Steffen Dereich, Arnulf Jentzen. *SAD Neural Networks: Divergent Gradient Flows and Asymptotic Optimality via o-minimal Structures.* Advances in Neural Information Processing Systems (NeurIPS 2025). [[link]](https://proceedings.neurips.cc/paper_files/paper/2025/hash/05fb0f4e645cad23e0ab59d6b9901428-Abstract-Conference.html) (2025).
+          - **Davide Gallon**, Philippe von Wurstemberger, Patrick Cheridito, Arnulf Jentzen. *Physics-Informed Diffusion Models in Spectral Space.* ICML (2026). [[Proceedings]](https://proceedings.mlr.press/v306/gallon26a.html) [[ArXiv]](https://arxiv.org/abs/2602.09708/)
+          - Julian Kranz, **Davide Gallon**, Steffen Dereich, Arnulf Jentzen. *SAD Neural Networks: Divergent Gradient Flows and Asymptotic Optimality via o-minimal Structures.* NeurIPS (2025). [[Proceedings]](https://proceedings.neurips.cc/paper_files/paper/2025/hash/05fb0f4e645cad23e0ab59d6b9901428-Abstract-Conference.html)
 
       - layout: top-middle
         title: Preprints
