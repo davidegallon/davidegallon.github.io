@@ -48,7 +48,7 @@ gtag: "G-QJESXBWSBE"
 # about_title: About Me
 about_profile_image: images/Gallon-Davide.JPG
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Davide and I am a PhD student in Mathematics at the University of Münster - Cluster of Excellence Mathematics (Germany).
+  I am a PhD researcher in Applied Mathematics at the University of Münster and a member of Mathematics Münster. I work on diffusion models for scientific computing, neural methods for PDEs, and stochastic optimization.
   
 
 content:
@@ -66,12 +66,19 @@ content:
         description: | # this will include new lines to allow paragraphs
          The PhD focuses on exploring novel techniques in Machine Learning and their mathematical understanding. Supervisor: [Arnulf Jentzen](https://www.ajentzen.de/).
 
+      - layout: left
+        title: ETH Zürich
+        sub_title: Visiting PhD Student
+        caption: March 2025–March 2026
+        description: |
+          I spent a year at ETH Zürich under the supervision of [Patrick Cheridito](https://people.math.ethz.ch/~patrickc/).
+
       - layout: top-middle
         title: Published Papers
         description: |
-          - Jean-Loup Dupret, **Davide Gallon**, Patrick Cheridito. *INEUS: Iterative Neural Solver for High-Dimensional PIDEs.* Accepted at NeurIPS 2026.[[ArXiv]](https://arxiv.org/abs/2605.06281/) (2026). 
-          - **Davide Gallon**, Philippe von Wurstemberger, Patrick Cheridito, Arnulf Jentzen. *Physics-Informed Diffusion Models in Spectral Space.* ICML (2026). [[Proceedings]](https://proceedings.mlr.press/v306/gallon26a.html) [[ArXiv]](https://arxiv.org/abs/2602.09708/)
-          - Julian Kranz, **Davide Gallon**, Steffen Dereich, Arnulf Jentzen. *SAD Neural Networks: Divergent Gradient Flows and Asymptotic Optimality via o-minimal Structures.* NeurIPS (2025). [[Proceedings]](https://proceedings.neurips.cc/paper_files/paper/2025/hash/05fb0f4e645cad23e0ab59d6b9901428-Abstract-Conference.html)
+          - Jean-Loup Dupret, **Davide Gallon**, Patrick Cheridito. *INEUS: Iterative Neural Solver for High-Dimensional PIDEs.* Accepted at NeurIPS 2026.[[ArXiv]](https://arxiv.org/abs/2605.06281/) (2026). [[Code]](https://github.com/jdupret97/INEUS)
+          - **Davide Gallon**, Philippe von Wurstemberger, Patrick Cheridito, Arnulf Jentzen. *Physics-Informed Diffusion Models in Spectral Space.* ICML (2026). [[Proceedings]](https://proceedings.mlr.press/v306/gallon26a.html) [[ArXiv]](https://arxiv.org/abs/2602.09708/) [[Code]](https://github.com/deeplearningmethods/PISD)
+          - Julian Kranz, **Davide Gallon**, Steffen Dereich, Arnulf Jentzen. *SAD Neural Networks: Divergent Gradient Flows and Asymptotic Optimality via o-minimal Structures.* NeurIPS (2025). [[Proceedings]](https://proceedings.neurips.cc/paper_files/paper/2025/hash/05fb0f4e645cad23e0ab59d6b9901428-Abstract-Conference.html) [[Code]](https://github.com/deeplearningmethods/sad)
 
       - layout: top-middle
         title: Preprints
@@ -80,6 +87,15 @@ content:
           - **Davide Gallon**, Arnulf Jentzen, Philippe von Wurstemberger. *An overview of diffusion models for generative artificial intelligence.* [[ArXiv]](https://arxiv.org/abs/2412.01371/) (2024).
           - **Davide Gallon**, Arnulf Jentzen, Felix Lindner. *Blow up phenomena for gradient descent optimization methods in the training of artificial neural networks.* [[ArXiv]](https://arxiv.org/abs/2211.15641/) (2022).
         
+      - layout: top-middle
+        title: Selected Research Code
+        description: |
+          **PISD — ICML 2026, first author.** I wrote the PyTorch implementation for PISD, a spectral diffusion method for generating PDE solutions and reconstructing them from sparse observations. The release includes spectral preprocessing, distributed training with `torchrun`, inference configurations, and pretrained checkpoints. [Code](https://github.com/deeplearningmethods/PISD) · [Paper](https://proceedings.mlr.press/v306/gallon26a.html)
+
+          **INEUS — NeurIPS 2026, coauthor.** I reorganized and polished the public research code and independently implemented the 100-dimensional nonlinear Black–Scholes experiment with default risk, with and without jumps. [Code](https://github.com/jdupret97/INEUS) · [Experiment guide](https://github.com/jdupret97/INEUS/blob/main/docs/nonlinear_black_scholes.md) · [Paper](https://arxiv.org/abs/2605.06281)
+
+          **SAD Neural Networks — NeurIPS 2025, coauthor.** I wrote and maintain the experimental software, including training and evaluation for polynomial regression, the heat and Black–Scholes PDEs, and MNIST classification. [Code](https://github.com/deeplearningmethods/sad) · [Paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/05fb0f4e645cad23e0ab59d6b9901428-Abstract-Conference.html)
+
       - layout: top-middle
         title: News
         #link: github.com/sproogen
@@ -95,13 +111,14 @@ content:
         #  ...
         description: | # this will include new lines to allow paragraphs
         
-          (July 2026) My paper *Physics-informed diffusion models in spectral space* was accepted at the International Conference on Machine Learning ([ICML 2026](https://icml.cc/)). I will attend the conference in South Korea.
-          
-          (April 2026 - September 2026) I am the teaching assistant for the course [Numerical Methods for PDEs II](https://studium.uni-muenster.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&publishid=452773&noDBAction=y&init=y) at the University of Münster.
+          (Upcoming) I will be in Paris for NeurIPS 2026. Our paper [*INEUS: Iterative Neural Solver for High-Dimensional PIDEs*](https://arxiv.org/abs/2605.06281) was accepted at the conference.
+
+          (Winter semester 2026–27) I am organizing a machine learning seminar at the University of Münster.
+
+          (April 2026 - September 2026) I was the teaching assistant for the course [Numerical Methods for PDEs II](https://studium.uni-muenster.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&publishid=452773&noDBAction=y&init=y) at the University of Münster.
 
           (December 2025) I attended the Conference on Neural Information Processing Systems ([NeurIPS 2025](https://neurips.cc/Conferences/2025)) in San Diego with the paper *SAD Neural Networks: Divergent Gradient Flows and Asymptotic Optimality via o-minimal Structures* by Julian Kranz, Davide Gallon, Steffen Dereich, and Arnulf Jentzen.
           
-          (March 2025 - March 2026) I was a visiting PhD student at ETH Zurich, under the supervision of [Patrick Cheridito](https://people.math.ethz.ch/~patrickc/). Thank you for this opportunity!
         
           (September 2024) I attended the [Mediterranean Machine Learning Summer School](https://www.m2lschool.org/past-editions/m2l-2024-italy) in Milan.
           
@@ -140,11 +157,6 @@ content:
         sub_title: Bachelor degree in Mathematics 
         description: | # this will include new lines to allow paragraphs
           The Bachelor in Mathematics program provided me a comprehensive education in theoretical and applied mathematics.
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      I have a deep interest in staying informed about the latest AI technological advancements.
-    
 
 # Footer
 footer_show_references: true
